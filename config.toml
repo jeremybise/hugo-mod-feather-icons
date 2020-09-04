@@ -2,5 +2,5 @@
 [[module.imports]]
 path="github.com/feathericons/feather"
 [[module.imports.mounts]]
-source = "src"
+source = "icons"
 target = "assets/svg/feather"
