@@ -1,0 +1,3 @@
+{{- with resources.Get (print "icons/" .) -}}
+  {{- .Content | safeHTML -}}
+{{- end -}}
