@@ -16,14 +16,14 @@ The icons gets mounted in `assets/svg/feather`.
 This means that they can be used like this in a Hugo template:
 
 ```html
-{{ $icon := resources.Get "svg/feather/search.svg" }} {{ $icon.Content |
+{{ $icon := resources.Get "feathericons/search.svg" }} {{ $icon.Content |
 safeHTML }}
 ```
 
 Or, use the shortcode:
 
 ```html
-
+{{ partial "feathericons/icon" "arrow-up-right" }}
 ```
 
 See https://github.com/feathericons/feather/tree/master/icons for a full list of icons.
