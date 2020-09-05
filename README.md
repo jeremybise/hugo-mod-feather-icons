@@ -20,4 +20,10 @@ This means that they can be used like this in a Hugo template:
 safeHTML }}
 ```
 
+Or, use the shortcode:
+
+```html
+
+```
+
 See https://github.com/feathericons/feather/tree/master/icons for a full list of icons.
