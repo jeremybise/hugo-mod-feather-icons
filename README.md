@@ -11,7 +11,7 @@ Import the module into your Hugo project's site config:
 path = "github.com/jeremybise/hugo-mod-feather-icons"
 ```
 
-The icons gets mounted in `assets/svg/feather`.
+The icons gets mounted in `assets/feather`.
 
 This means that they can be used like this in a Hugo template:
 
