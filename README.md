@@ -1,3 +1,5 @@
+Work in progress...
+
 Feather icons available as a Hugo module.
 
 Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility. See https://github.com/feathericons/feather
